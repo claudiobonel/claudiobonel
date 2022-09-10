@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 <br>
 📊 Business Intelligence
 <br>
-<img src="26CA463D-AC29-4258-9574-98EF270C48AF.png" width="25"/> Banco de dados
+<img src="26CA463D-AC29-4258-9574-98EF270C48AF.png" width="23"/> Banco de dados
 <br>
-<img src="26CA463D-AC29-4258-9574-98EF270C48AF.png" width="23"/> Modelagem de dados
+<img src="CCD0951C-7553-440C-8B71-9D64A5634C21.png" width="23"/> Modelagem de dados
 <br>
 Desenvolvimento SQL
 <br>
