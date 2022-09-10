@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <br><br>
 <img src="022BC6B9-F026-4893-9430-B71E88D4A420.png" width="23"/> Python
 <br><br>
-<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" width="18"/> Power BI
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" width="18"/>  Power BI
 <br><br>
 <img src="F3601BE0-AE42-4E07-A088-A8462FCBD8F1.png" width="23"/> Excel
 
