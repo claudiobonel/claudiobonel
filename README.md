@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👨🏽‍💻 Sobre mim!
+###👨🏽‍💻 Sobre mim!
 
 👨🏽‍🏫 Professor de graduação, pós-graduação e cursos livres, na Faculdade de Tecnologia SENAC-RJ
-
 🎓 Doutorando e Mestre em Educação. Especialista em Sistemas de Informação. Licenciado em Informática. Tecnólogo em Marketing.
 
 📊 Diretor de tecnologias e treinamento na Dadoteca
