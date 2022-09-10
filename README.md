@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 📝 contato@profclaudiobonel.com.br
 <br><br>
-<img src="F3601BE0-AE42-4E07-A088-A8462FCBD8F1.png" width="23"/> http://br.linkedin.com/in/bonel
+<img src="F3BD5741-49C3-427A-ABD7-090A9E23BB90.png" width="23"/> http://br.linkedin.com/in/bonel
 <img src="CCBD6F9B-30F3-4FBB-AB9C-258FEA35C171.jpeg" width="23"/> @bonelclaudio
 
 Tmj e boas análises
