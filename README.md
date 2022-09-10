@@ -35,24 +35,24 @@ Here are some ideas to get you started:
 ## Experiência, pesquisa e desenvolvimento.
 
 ⚙️ Engenharia de software e requisitos
-<br>
+<br><br>
 🎲 Engenharia de dados
-<br>
+<br><br>
 📊 Business Intelligence
-<br>
+<br><br>
 <img src="26CA463D-AC29-4258-9574-98EF270C48AF.png" width="23"/> Banco de dados
-<br>
+<br><br>
 <img src="CCD0951C-7553-440C-8B71-9D64A5634C21.png" width="23"/> Modelagem de dados
-<br>
+<br><br>
 <img src="9F435C7E-1279-468E-8617-8ED3A9A54415.jpeg" width="23"/> Desenvolvimento SQL
-<br>
-Visualização e storytelling com dados
-<br>
+<br><br>
+<img src="294D10A3-EF42-4BEA-A28A-4A902F6FEE99.jpeg" width="23"/> Visualização e storytelling com dados
+<br><br>
 <img src="022BC6B9-F026-4893-9430-B71E88D4A420.png" width="23"/> Python
-<br>
+<br><br>
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" width="18"/> Power BI
-<br>
-Excel
+<br><br>
+<img src="022BC6B9-F026-4893-9430-B71E88D4A420.png" width="23"/> Excel
 
 ## Contatos
 
