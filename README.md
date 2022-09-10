@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br>
 🎓 Doutorando e Mestre em Educação. Especialista em Sistemas de Informação. Licenciado em Informática. Tecnólogo em Marketing.
 <br>
-📊 Diretor de tecnologias e treinamento na Dadoteca
+📊 Diretor de tecnologias e treinamentos na Dadoteca
 <br>
 🌊 Carioca
 <br>
