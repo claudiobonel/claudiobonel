@@ -48,9 +48,9 @@ Desenvolvimento SQL
 <br>
 Visualização e storytelling com dados
 <br>
-:python: Python
+Python
 <br>
-Power BI
+![Power BI] (https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true)Power BI
 <br>
 Excel
 
