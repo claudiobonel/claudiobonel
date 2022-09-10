@@ -58,7 +58,8 @@ Here are some ideas to get you started:
 ## Contatos
 
 📝 contato@profclaudiobonel.com.br
-Linked in: http://br.linkedin.com/in/bonel
-Instagram: @bonelclaudio
+<br><br>
+<img src="F3601BE0-AE42-4E07-A088-A8462FCBD8F1.png" width="23"/> http://br.linkedin.com/in/bonel
+<img src="F3601BE0-AE42-4E07-A088-A8462FCBD8F1.png" width="23"/> @bonelclaudio
 
 Tmj e boas análises
