@@ -60,6 +60,9 @@ Here are some ideas to get you started:
 📝 contato@profclaudiobonel.com.br
 <br><br>
 <img src="F3BD5741-49C3-427A-ABD7-090A9E23BB90.png" width="23"/> http://br.linkedin.com/in/bonel
+<br><br>
 <img src="CCBD6F9B-30F3-4FBB-AB9C-258FEA35C171.jpeg" width="23"/> @bonelclaudio
-
-Tmj e boas análises
+<br><br>
+Tmj e boas análises!
+<br>
+Claudio Bonel
