@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 ## Contatos
 
-E-mail: contato@profclaudiobonel.com.br
+📝 contato@profclaudiobonel.com.br
 Linked in: http://br.linkedin.com/in/bonel
 Instagram: @bonelclaudio
 
