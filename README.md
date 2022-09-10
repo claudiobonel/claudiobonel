@@ -48,7 +48,7 @@ Desenvolvimento SQL
 <br>
 Visualização e storytelling com dados
 <br>
-Python
+:python: Python
 <br>
 Power BI
 <br>
