@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 <br>
 🎲 Engenharia de dados
 <br>
-📈 Business Intelligence
+📊 Business Intelligence
 <br>
-<img src="26CA463D-AC29-4258-9574-98EF270C48AF.png" width="23"/> Banco de dados
+<img src="26CA463D-AC29-4258-9574-98EF270C48AF.png" width="25"/> Banco de dados
 <br>
-Modelagem de dados
+<img src="26CA463D-AC29-4258-9574-98EF270C48AF.png" width="23"/> Modelagem de dados
 <br>
 Desenvolvimento SQL
 <br>
