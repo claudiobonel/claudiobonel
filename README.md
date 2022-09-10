@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <br>
 <img src="CCD0951C-7553-440C-8B71-9D64A5634C21.png" width="23"/> Modelagem de dados
 <br>
-Desenvolvimento SQL
+<img src="9F435C7E-1279-468E-8617-8ED3A9A54415.jpeg" width="23"/> Desenvolvimento SQL
 <br>
 Visualização e storytelling com dados
 <br>
