@@ -34,16 +34,24 @@ Here are some ideas to get you started:
 
 ## Experiência, pesquisa e desenvolvimento.
 
-Engenharia de software
-Engenharia de requisitos
-Engenharia de dados
-Business Intelligence
+⚙️ Engenharia de software e requisitos
+<br>
+🎲 Engenharia de dados
+<br>
+📈 Business Intelligence
+<br>
 Banco de dados
+<br>
 Modelagem de dados
+<br>
 Desenvolvimento SQL
+<br>
 Visualização e storytelling com dados
+<br>
 Python
+<br>
 Power BI
+<br>
 Excel
 
 ## Contatos
