@@ -67,6 +67,15 @@ Here are some ideas to get you started:
 <img src="F3BD5741-49C3-427A-ABD7-090A9E23BB90.png" width="23"/> http://br.linkedin.com/in/bonel
 <br><br>
 <img src="CCBD6F9B-30F3-4FBB-AB9C-258FEA35C171.jpeg" width="23"/> @bonelclaudio
+
+## Informações gerais
+ ### 1. Estatísticas 
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
+ ### 2. Linguages mais utilizadas
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
+ ### 3. Visitas ao perfil
+ ![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+ 
 <br><br>
 Tmj e boas análises!
 <br>
