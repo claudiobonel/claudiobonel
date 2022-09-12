@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 ## Informações gerais
  ### 1. Estatísticas 
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=claudiobonel&show_icons=true)
  ### 2. Linguages mais utilizadas
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
  ### 3. Visitas ao perfil
