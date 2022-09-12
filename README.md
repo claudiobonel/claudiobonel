@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 📊 Diretor de tecnologias e treinamentos na Dadoteca
 <br>
 👷🏽‍♂️ Engenharia, ciência e análise de dados
+<br>
 🌊 Carioca
 <br>
 🏄🏽‍♂️ Free surfer
