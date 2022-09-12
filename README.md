@@ -72,9 +72,9 @@ Here are some ideas to get you started:
  ### 1. Estatísticas 
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=claudiobonel&show_icons=true)
  ### 2. Linguages mais utilizadas
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiobonel&theme=blue-green)
  ### 3. Visitas ao perfil
- ![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+ ![Profile View Counter](https://komarev.com/ghpvc/?username=claudiobonel)
  
 <br><br>
 Tmj e boas análises!
