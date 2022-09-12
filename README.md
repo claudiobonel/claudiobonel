@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 <br><br>
 🎲 Engenharia de dados
 <br><br>
+<img src="view-analytics-1024.webp" width="23"/> Ciência de dados
+<br><br>
 📊 Business Intelligence
 <br><br>
 <img src="26CA463D-AC29-4258-9574-98EF270C48AF.png" width="23"/> Banco de dados
