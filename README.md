@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 <br><br>
 <img src="view-analytics-1024.webp" width="23"/> Ciência de dados
 <br><br>
+<img src="9239306D-643B-49F6-B821-1C6EB3756E7C.jpeg" width="23"/> Governança de dados
+<br><br>
 📊 Business Intelligence
 <br><br>
 <img src="26CA463D-AC29-4258-9574-98EF270C48AF.png" width="23"/> Banco de dados
