@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Sobre mim!
 
-👨🏽‍🏫 Professor de graduação, pós-graduação e cursos livres, na Faculdade de Tecnologia SENAC-RJ
+👨🏽‍🏫 Professor de graduação, pós-graduação e cursos livres, na Faculdade de Tecnologia SENAC-RJ e na Pós Online da PUCRS
 <br>
 🎓 Doutorando e Mestre em Educação. Especialista em Sistemas de Informação. Licenciado em Informática. Tecnólogo em Marketing.
 <br>
