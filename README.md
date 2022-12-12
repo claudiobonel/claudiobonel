@@ -44,13 +44,15 @@ Here are some ideas to get you started:
 
 Engenharia de software e requisitos, Engenharia de dados, Governança de dados, Business Intelligence, Banco de dados, Modelagem de dados, Desenvolvimento SQL, Visualização e storytelling com dados, Machine learning, Deep Learning, Chatbots, Otimização de algoritmos, Lógica computacional, Python, Power BI e Excel
 
-## Projetos interessantes para você conhecer
+## Projetos e treinamentos gratuitos para você conhecer
 
 #### <a href = "https://github.com/claudiobonel/python-crias"> 1. Python crias - Fundamentos para o desenvolvimento em Python </a>
 #### <a href = "https://github.com/claudiobonel/python_chatbots"> 2. Processamento em Linguagem Natural (NLP) e Chatbots em Python </a>
-#### <a href = "https://github.com/claudiobonel/Python-Integracao-de-dados"> 3. Engenharia de dados em Python </a>
-#### <a href = "https://github.com/claudiobonel/PRODERJ-PowerBI_2022.1"> 4. Microsoft Power BI: Do zero ao dashboard </a>
-#### <a href = "https://github.com/claudiobonel/Excel-Basico"> 5. Fundamentos do Microsoft Excel para análise de dados </a>
+#### <a href = "https://ead.dadoteca.com.br/cursos/fundamentos-de-banco-de-dados/"> 3. Projeto de Banco de Dados e desenvolvimento SQL </a>
+#### <a href = "https://github.com/claudiobonel/Python-Integracao-de-dados"> 4. Engenharia de dados em Python </a>
+#### <a href = "https://ead.dadoteca.com.br/cursos/fundamentos-do-business-intelligence/"> 5. Fundamentos do Business Intelligence </a>
+#### <a href = "https://github.com/claudiobonel/PRODERJ-PowerBI_2022.1"> 6. Microsoft Power BI: Do zero ao dashboard </a>
+#### <a href = "https://github.com/claudiobonel/Excel-Basico"> 7. Fundamentos do Microsoft Excel para análise de dados </a>
 
 ## Contatos
 
