@@ -16,13 +16,19 @@ Here are some ideas to get you started:
 -->
 ### Sobre mim!
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cladiobonel)](https://github.com/claudiobonel)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/bonel)](https://br.linkedin.com/in/bonel)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/ClaudioBonel)](https://www.youtube.com/c/ClaudioBonel)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=http://instagram.com/bonelclaudio)](http://instagram.com/bonelclaudio)
+
+
 👨🏽‍🏫 Professor de graduação, pós-graduação e cursos livres, na Faculdade de Tecnologia SENAC-RJ e na Pós Online da PUCRS
 <br>
 🎓 Doutorando e Mestre em Educação. Especialista em Sistemas de Informação. Licenciado em Informática. Tecnólogo em Marketing.
 <br>
 📊 Diretor de tecnologias e treinamentos na Dadoteca
 <br>
-👷🏽‍♂️ Engenharia, ciência e análise de dados
+👷🏽‍♂️ Pesquisador em ciências relacionadas a dados e inteligência artificial
 <br>
 🌊 Carioca
 <br>
@@ -34,31 +40,13 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-## Experiência, pesquisa e desenvolvimento.
+## Experiência, pesquisa e desenvolvimento
 
-⚙️ Engenharia de software e requisitos
-<br><br>
-🎲 Engenharia de dados
-<br><br>
-<img src="view-analytics-1024.webp" width="23"/> Ciência de dados
-<br><br>
-<img src="9239306D-643B-49F6-B821-1C6EB3756E7C.jpeg" width="25"/> Governança de dados
-<br><br>
-📊 Business Intelligence
-<br><br>
-<img src="26CA463D-AC29-4258-9574-98EF270C48AF.png" width="25"/> Banco de dados
-<br><br>
-<img src="CCD0951C-7553-440C-8B71-9D64A5634C21.png" width="23"/> Modelagem de dados
-<br><br>
-<img src="9F435C7E-1279-468E-8617-8ED3A9A54415.jpeg" width="23"/> Desenvolvimento SQL
-<br><br>
-<img src="294D10A3-EF42-4BEA-A28A-4A902F6FEE99.jpeg" width="23"/> Visualização e storytelling com dados
-<br><br>
-<img src="022BC6B9-F026-4893-9430-B71E88D4A420.png" width="23"/> Python
-<br><br>
-<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" width="18"/>  Power BI
-<br><br>
-<img src="F3601BE0-AE42-4E07-A088-A8462FCBD8F1.png" width="23"/> Excel
+Engenharia de software e requisitos, Engenharia de dados, Governança de dados, Business Intelligence, Banco de dados, Modelagem de dados, Desenvolvimento SQL, Visualização e storytelling com dados, Machine learning, Deep Learning, Chatbots, Otimização de algoritmos, Lógica computacional, Python, Power BI e Excel
+
+## Projetos interessantes para você conhecer
+
+
 
 ## Contatos
 
