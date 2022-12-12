@@ -46,7 +46,11 @@ Engenharia de software e requisitos, Engenharia de dados, Governança de dados, 
 
 ## Projetos interessantes para você conhecer
 
-
+#### <a href = "https://github.com/claudiobonel/python-crias"> 1. Python crias - Fundamentos para o desenvolvimento em Python </a>
+#### <a href = "https://github.com/claudiobonel/python_chatbots"> 2. Processamento em Linguagem Natural (NLP) e Chatbots em Python </a>
+#### <a href = "https://github.com/claudiobonel/Python-Integracao-de-dados"> 3. Engenharia de dados em Python </a>
+#### <a href = "https://github.com/claudiobonel/PRODERJ-PowerBI_2022.1"> 4. Microsoft Power BI: Do zero ao dashboard </a>
+#### <a href = "https://github.com/claudiobonel/Excel-Basico"> 5. Fundamentos do Microsoft Excel para análise de dados </a>
 
 ## Contatos
 
