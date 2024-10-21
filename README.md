@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br>
 🎓 Doutorando e Mestre em Educação. Especialista em Sistemas de Informação. Licenciado em Informática. Tecnólogo em Marketing.
 <br>
-📊 Diretor de tecnologias e treinamentos na Dadoteca
+📊 Engenheiro de Machine Learning
 <br>
 👷🏽‍♂️ Pesquisador em ciências relacionadas a dados e inteligência artificial
 <br>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ## Experiência, pesquisa e desenvolvimento
 
-Engenharia de software e requisitos, Engenharia de dados, Governança de dados, Business Intelligence, Banco de dados, Modelagem de dados, Desenvolvimento SQL, Visualização e storytelling com dados, Machine learning, Deep Learning, Chatbots, Otimização de algoritmos, Lógica computacional, Python, Power BI e Excel
+Engenharia de software e requisitos, Engenharia de dados, Governança de dados, Business Intelligence, Banco de dados, Modelagem de dados, Desenvolvimento SQL, Visualização e storytelling com dados, Machine learning, Deep Learning, Chatbots, Processamento de Linguagem Natural, Otimização de algoritmos, Python e Power BI
 
 ## Projetos e treinamentos gratuitos para você conhecer
 
