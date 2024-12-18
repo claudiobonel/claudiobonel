@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=http://instagram.com/bonelclaudio)](http://instagram.com/bonelclaudio)
 
 
-👨🏽‍🏫 Professor de graduação, pós-graduação e cursos livres, na Faculdade de Tecnologia SENAC-RJ e na Pós Online da PUCRS
+👨🏽‍🏫 Professor de graduação, pós-graduação e cursos livres, na IBMEC Rio e na Pós Online da PUCRS
 <br>
-🎓 Doutorando e Mestre em Educação. Especialista em Sistemas de Informação. Licenciado em Informática. Tecnólogo em Marketing.
+🎓 Doutorando e Mestre em Educação. Especialista em Sistemas de Informação. Licenciado em Informática. Tecnólogo em gestão da tecnologia da informação. Tecnólogo em Marketing. Bacharelando em Matemática.
 <br>
-📊 Engenheiro de Machine Learning
+📊 Cientista de dados e Engenheiro de Machine Learning
 <br>
-👷🏽‍♂️ Pesquisador em ciências relacionadas a dados e inteligência artificial
+👷🏽‍♂️ Pesquisador em ciências relacionadas a dados e inteligência artificial aplicada à educação.
 <br>
 🌊 Carioca
 <br>
@@ -42,7 +42,13 @@ Here are some ideas to get you started:
 
 ## Experiência, pesquisa e desenvolvimento
 
-Engenharia de software e requisitos, Engenharia de dados, Governança de dados, Business Intelligence, Banco de dados, Modelagem de dados, Desenvolvimento SQL, Visualização e storytelling com dados, Machine learning, Deep Learning, Chatbots, Processamento de Linguagem Natural, Otimização de algoritmos, Python e Power BI
+- Banco de dados, modelagem de dados e SQL
+- Arquitetura de dados
+- Engenharia de software e de requisitos
+- DevOps e MLOps (CI/CD)
+- Vetorização com modelos de linguagem open source (Hugging face)
+- Python (pandas, polars, numpy, pyspark, faiss, scikit-learn, tensorflow, keras, sentence transformers, spacy, matplotlib, seaborn, entre outras), 
+- Visualização de dados (Power BI, Looker Studio e Qlik Sense)
 
 ## Projetos e treinamentos gratuitos para você conhecer
 
