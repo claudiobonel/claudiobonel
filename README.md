@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=http://instagram.com/bonelclaudio)](http://instagram.com/bonelclaudio)
 
 
-👨🏽‍🏫 Professor de graduação, pós-graduação e cursos livres, na IBMEC Rio e na Pós Online da PUCRS
+👨🏽‍🏫 Professor de graduação, pós-graduação e cursos livres, na IBMEC Rio e na Pós Online da PUCRS. Engenheiro de machine learning, no Ministério do Trabalho e Emprego (Terceirizado pela Linuxell).
 <br>
 🎓 Doutorando e Mestre em Educação. Especialista em Sistemas de Informação. Licenciado em Informática. Tecnólogo em gestão da tecnologia da informação. Tecnólogo em Marketing. Bacharelando em Matemática.
 <br>
