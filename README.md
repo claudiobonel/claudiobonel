@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=http://instagram.com/bonelclaudio)](http://instagram.com/bonelclaudio)
 
 
-👨🏽‍🏫 Professor de graduação, pós-graduação e cursos livres, na IBMEC Rio e na Pós Online da PUCRS. Engenheiro de machine learning, no Ministério do Trabalho e Emprego (Terceirizado pela Linuxell).
+👨🏽‍🏫 Professor de graduação na UERJ e da Pós Online da PUCRS. Head de machine learning na Quali-Quanti data.
 <br>
-🎓 Doutorando e Mestre em Educação. Especialista em Sistemas de Informação. Licenciado em Informática. Tecnólogo em gestão da tecnologia da informação. Tecnólogo em Marketing. Bacharelando em Matemática.
+🎓 Pós-doutorando em IA aplicada, Doutor e Mestre em Educação. Especialista em Sistemas de Informação. Especialista em Docência em ciências e tecnologia da informação, Licenciado em Informática. Tecnólogo em gestão da tecnologia da informação. Tecnólogo em Marketing. Bacharelando em Matemática.
 <br>
 📊 Cientista de dados e Engenheiro de Machine Learning
 <br>
@@ -34,10 +34,12 @@ Here are some ideas to get you started:
 <br>
 🏄🏽‍♂️ Free surfer
 <br>
+<img width="24" height="26" alt="image" src="https://github.com/user-attachments/assets/9ab797a3-b589-47d2-a967-611bb315e89c" align="top"/> 
+White belt Brazilian Jiu-Jitsu
+<br>
 ⚽️ Torcedor do América/RJ
 <br>
 🎼 Punk Rock/Hardcore
-<br>
 <br>
 
 ## Experiência, pesquisa e desenvolvimento
@@ -45,12 +47,21 @@ Here are some ideas to get you started:
 - Banco de dados, modelagem de dados e SQL
 - Arquitetura de dados
 - Engenharia de software e de requisitos
+- Ciência de dados e Business Intelligence
+- Machine learning
+- Inteligiência artificial aplicada
+- Análise estatística de dados e matemática aplicada à tomada de decisão
 - DevOps e MLOps (CI/CD)
-- Vetorização com modelos de linguagem open source (Hugging face)
 - Python (pandas, polars, numpy, pyspark, faiss, scikit-learn, tensorflow, keras, sentence transformers, spacy, matplotlib, seaborn, entre outras), 
 - Visualização de dados (Power BI, Looker Studio e Qlik Sense)
+- Claude CLI
 
-## Projetos e treinamentos gratuitos para você conhecer
+## Quali-Quanti Bot
+- Um chatbot open source para você conectar sua planilha de excel e conversar com seus dados, para tomar decisões.
+- Versão Beta (testes)
+  #### <a href = "https://github.com/claudiobonel/qualiquanti"> Acesse o projeto aqui! </a>
+
+## Treinamentos gratuitos para você conhecer
 
 #### <a href = "https://github.com/claudiobonel/python-crias"> 1. Python crias - Fundamentos para o desenvolvimento em Python </a>
 #### <a href = "https://github.com/claudiobonel/python_chatbots"> 2. Processamento em Linguagem Natural (NLP) e Chatbots em Python </a>
@@ -73,10 +84,10 @@ Here are some ideas to get you started:
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=claudiobonel&show_icons=true)
  ### 2. Linguages mais utilizadas
  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiobonel&theme=blue-green)
-<!-- ### 3. Visitas ao perfil
+ ### 3. Visitas ao perfil
  ![Profile View Counter](https://komarev.com/ghpvc/?username=claudiobonel)
---> 
-<br><br>
+ 
+<br>
 Tmj e boas análises!
 <br>
 Claudio Bonel
